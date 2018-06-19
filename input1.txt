@@ -1,0 +1,14 @@
+pokemon.txt pokemon
+trainers.txt trainers
+
+INSERT((45|Vileplume|Grass,Poison|Water,Fairy|Flying,Fire,Psychic,Ice),pokemon)
+INSERT((148|Draonair|Dragon|Dragon|Ice,Dragon,Fairy),pokemon)
+INSERT((25|Raichu|Electric|Flying,Water|Ground),pokemon)
+UPDATE((70|Weepinbell|Grass,Poison|Water,Fairy|Flying,Fire,Psychic,Ice),pokemon)
+INSERT((Samuel|Oak|47|Boulder,Cascade,Thunder,Rainbow,Soul,Marsh,Volcano|Squirtle,Bulbasaur,Charmander),trainers)
+UPDATE((Ash|Ketchum|15|Boulder,Cascade,Thunder,Rainbow|Pikachu,Squirtle,Bulbasaur,Charmander),trainers)
+DELETE((Brock|Harrison|*|*|*),trainers)
+DELETE((Tracey|Sketchit|15|||),trainers)
+SELECT((71|*|*|*|*),pokemon)
+SELECT((Ash|Ketchum|*|*|*),trainers)
+WRITE()

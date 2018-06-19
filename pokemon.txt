@@ -1,0 +1,8 @@
+ID
+ID,NAME,TYPE,STRONG_TO,WEAK_TO
+145|Zapdos|Electic,Flying|Fighting,Flying,Bug,Water|Rock,Ice
+25|Pikachu|Electric|Flying,Water|Ground
+57|Primeape|Fighting|Normal,Rock,Steel,Ice,Dark|Flying,Psychic,Fairy
+39|Jigglypuff|Normal,Fairy|Fighting,Dragon,Dark|Poison,Steel
+94|Gengar|Ghost,Poison|Grass,Psychic,Fairy|Ground,Ghost,Psychic,Dark
+70|Weepingbell|Grass,Poison|Water,Fairy|Flying,Fire,Psychic,Ice

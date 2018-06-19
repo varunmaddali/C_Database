@@ -1,0 +1,5 @@
+FIRSTNAME,LASTNAME
+FIRSTNAME,LASTNAME,AGE,BADGES_HELD,POKEMON_OWNED
+Ash|Ketchum|10|Boulder,Cascade,Thunder,Rainbow|Pikachu,Squirtle,Bulbasaur,Charmander
+Brock|Harrison|15|Boulder|Onyx,Geodude,Graveler
+Misty|Yawa|10|Boulder,Cascade|Staryu,Starmi,Togepi,Magikarp
